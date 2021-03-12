@@ -3,7 +3,7 @@
 an archive of immunoglobulin heavy chain (IGH) V, D, and J genes identified by IgDetective tool (https://github.com/Immunotools/IgDetective)
 
 The archive includes the following species:
-| Latin name | Commo name | Source | Source accession number |
+| Latin name | Common name | Source | Source accession number |
 | --- | --- | --- | --- |
 | Balaenoptera musculus | blue whale | VGP | mBalMus1 |
 | Callithrix jacchus | common marmoset | VGP | mCalJac1 (maternal) |
