@@ -1,0 +1,3 @@
+contig	reference strand	heptamer index	nonamer index	heptamer	nonamer	best aligned human gene	alignment direction	alignment PI	longest common k-mer	start of gene	gene sequence
+IGH_scaffold_58_arrow_ctg1	+	252043	252010	CAACGTG	GGGTTTTTG	IGHJ4*01	+	97.9166666666667	22	252050	ACTACTTTGACTACTGGGGCCAGGGGACCCTGGTCACCGTCTCCTCAG
+IGH_scaffold_58_arrow_ctg1	+	252927	252895	CATTGTG	TGGTTTTTG	IGHJ4*01	+	90.19607843137258	22	252934	ATTACTACGCTATGGACTACTGGGGCCAGGGGACCCTGGTCACCGTCTCCTCAG
