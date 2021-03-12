@@ -6,7 +6,7 @@ The archive includes the following species:
 | Latin name | Commo name | Source | Source accession number |
 | --- | --- | --- | --- |
 | Balaenoptera musculus | blue whale | VGP | mBalMus1 |
-| Callithrix jacchus | common marmoset | VGP | mCalJac1 (maternal) |
+| Callithrix jacchus | common marmoset | VGP | mCalJac1 (maternal) |
 | Choloepus didactylus | southern two-toed sloth | VGP | mChoDid1 |
 | Gorilla gorilla | western gorilla | Kronenberg et al., 2018 | GCF_008122165.1_Kamilah_GGO_v0 |
 | Lemur catta | ring-tailed lemur | VGP | mLemCat1 |
